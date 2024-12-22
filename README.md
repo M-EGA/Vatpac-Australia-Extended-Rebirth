@@ -1,5 +1,9 @@
 # Vatpac-Australia-Extended-Rebirth
-Updated Versions of Australia Extended. Has many Quality of life plugins such as, runway numbers, condensed maps, updated airrac, route finder and more.
+Updated Versions of Australia Extended. Has many Quality of life plugins such as, runway numbers, condensed maps, updated airac, route finder and more.
+
+# Disclaimer
+
+This Profile is not endorsed by VATPAC or VATSIM. This is a third party and is not an offical replacement to the offical Australia profile. This is a QOL addon that follows the current AIRAC cycle and updates by itself.
 
 # How to download
 1. Download the Zip found on the [latest version](https://github.com/M-EGA/Vatpac-Australia-Extended-Rebirth/releases/tag/AustraliaExtended) page.
