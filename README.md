@@ -10,7 +10,7 @@ When the Australian profile updates you will be required to download Australia E
 This Profile is not endorsed by VATPAC or VATSIM. This is a third party and is not an offical replacement to the offical Australia profile.
 
 # How to download
-1. Download the Zip found on the [latest version](https://github.com/M-EGA/Vatpac-Australia-Extended-Rebirth/releases/tag/AustraliaExtended) page.
+1. Download the Zip found on the [latest version](https://github.com/M-EGA/Vatpac-Australia-Extended-Rebirth/releases) page.
 2. Unzip the folder then place it into C:\Users\<YOUR USERNAME>\Documents\vatSys Files\Profiles
 3. Open Vatsys and change profile to Australia Extended e.g. 2412c
 4. Enjoy!
